@@ -14,6 +14,7 @@
         <module>02_mybatis_generator</module>
         <module>03_mybatis_spring</module>
         <module>mybatis-3-master</module>
+        <module>design-pattern</module>
     </modules>
 
     <build>

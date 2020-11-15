@@ -11,6 +11,7 @@
         <module name="02_mybatis_generator" />
         <module name="03_mybatis_spring" />
         <module name="_03_mybatis_spring" />
+        <module name="design-pattern" />
         <module name="mybatis" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="02_mybatis_generator" target="1.8" />
       <module name="03_mybatis_spring" target="1.8" />
       <module name="_03_mybatis_spring" target="1.8" />
+      <module name="design-pattern" target="1.8" />
       <module name="mybatis" target="1.8" />
       <module name="mybatis-dev" target="1.8" />
     </bytecodeTargetLevel>
